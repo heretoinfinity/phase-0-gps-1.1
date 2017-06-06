@@ -1,4 +1,5 @@
 #Reflection Questions
+
 **What Git concepts were you struggling with prior to the GPS session?**
 
 I was familiar with Git beforehand. I had some issue with merge conflicts though. I wasn't able to solve my first conflict when I was learning Git. After the GPS, my partner and I were able to solve the merge conflict in our assignment.
