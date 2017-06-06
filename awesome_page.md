@@ -13,8 +13,7 @@ how_to_be_MORE_awesome  = practice_some _more
 ```
 
 [$4 REAL...](https://media.giphy.com/media/zMCfqXkwjmTO8/giphy.gif)
-*line 1
-*line 2
 
 
-
+Thank you for stopping by! you're awesome!
+*BYE!
