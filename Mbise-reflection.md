@@ -1,4 +1,4 @@
-#Reflection Questions
+# Reflection Questions
 
 **What Git concepts were you struggling with prior to the GPS session?**
 
